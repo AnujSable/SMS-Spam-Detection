@@ -151,13 +151,9 @@ Output:
 
 
 * **Python**
-* 
 * **Pandas**
-* 
 * **Scikit-learn**
-* 
 * **TF-IDF Vectorizer**
-* 
 * **Streamlit**
 
 
